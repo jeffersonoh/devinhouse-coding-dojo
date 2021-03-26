@@ -1,0 +1,15 @@
+/.settings/
+/.project/
+/.classpath/
+/.repository/
+/target/
+/.idea/
+/.m2/
+/itbi-backend.iml
+/itbi-backend.log*
+.classpath
+.project
+.vscode
+.vscode/launch.json
+.vscode/settings.json
+
