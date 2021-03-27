@@ -12,9 +12,7 @@ Os desafios de frontend/backend deverão ser feitos de forma colaborativa com o 
 
 A dinamica do desafio será feita com base no formato [CODING DOJO](https://codingdojo.org/WhatIsCodingDojo/);
 
-```
-"Um Coding Dojo é uma reunião onde vários programadores se reúnem para trabalhar em um desafio de programação. Eles estão lá para se divertir e se envolver no DeliberatePractice, a fim de aprimorar suas habilidades."
-```
+> "Um Coding Dojo é uma reunião onde vários programadores se reúnem para trabalhar em um desafio de programação. Eles estão lá para se divertir e se envolver no DeliberatePractice, a fim de aprimorar suas habilidades."
 
 ## Premissas
 
@@ -35,22 +33,4 @@ O desafio de backend se trata em construir uma estrutura contendo os requisitos 
 ### Desafio frontend
 
 O desafio de backend se trata em construir uma estrutura contendo os requisitos relacionados na descrição do seu Readme [AQUI](./frontend/README.md).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
